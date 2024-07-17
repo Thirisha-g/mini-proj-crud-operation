@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "High-performance laptop for all your computing needs.",
+      "price": "777.99",
+      "category": "Clothing"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Sleek smartphone with advanced features and great performance.",
+      "price": "2.99",
+      "category": "accessories"
+    },
+    {
+      "id": 3,
+      "name": "Tablet",
+      "description": "Portable tablet perfect for entertainment and productivity.",
+      "price": "9.99",
+      "category": "accessories"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "description": "Stay connected with this stylish and functional smartwatch.",
+      "price": "4.99",
+      "category": "accessories"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "description": "High-quality sound in a compact Bluetooth speaker.",
+      "price": "16.99",
+      "category": "accessories"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Headphones",
+      "description": "Experience music wirelessly with these comfortable headphones.",
+      "price": "10.99",
+      "category": "accessories"
+    },
+    {
+      "id": 7,
+      "name": "E-Reader",
+      "description": "Read your favorite books on this lightweight e-reader.",
+      "price": "9.99",
+      "category": "apparel"
+    },
+    {
+      "id": 8,
+      "name": "VR Headset",
+      "description": "Immerse yourself in virtual reality with this VR headset.",
+      "price": "19.99",
+      "category": "Clothing"
+    },
+    {
+      "name": "IQ 009",
+      "description": "best phone with high pixel clarity",
+      "price": "30",
+      "category": "Electronics",
+      "create": "2024-07-07T16:37:58.898Z",
+      "id": 9
+    },
+    {
+      "name": "jeans and top",
+      "description": "cotton",
+      "price": "999",
+      "category": "Clothing",
+      "create": "2024-07-17T12:16:03.070Z",
+      "id": 10
+    },
+    {
+      "name": "kurthi",
+      "description": "cotton",
+      "price": "399",
+      "category": "Clothing",
+      "create": "2024-07-17T12:37:16.818Z",
+      "id": 11
+    },
+    {
+      "name": "top",
+      "description": "rayon",
+      "price": 123,
+      "category": "Electronics",
+      "create": "2024-07-17T13:17:27.038Z",
+      "id": 12
+    }
+  ]
+}
